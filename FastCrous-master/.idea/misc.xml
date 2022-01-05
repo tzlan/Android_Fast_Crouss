@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="app/src/main/res/drawable-anydpi/ic_time.xml" value="0.371875" />
+        <entry key="app/src/main/res/drawable/item_search.xml" value="0.371875" />
+        <entry key="app/src/main/res/drawable/item_view_search.xml" value="0.371875" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/activity_maps.xml" value="0.19791666666666666" />
+        <entry key="app/src/main/res/layout/fragement_home.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/fragment_maps.xml" value="0.2513586956521739" />
+        <entry key="app/src/main/res/layout/item_resto_horizental.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/item_resto_vertical.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/popup_resto_details.xml" value="0.1" />
+        <entry key="app/src/main/res/menu/bottom_navigation_menu.xml" value="0.35572916666666665" />
+      </map>
+    </option>
+  </component>
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK" />
+</project>

@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">FastCrous</string>
+
+    <!--Premiere page-->
+
+    <string name="Search">Rechercher</string>
+    <string name="Favoris">Favoris</string>
+    <string name="Name_restaurant">Restaurant Crous</string>
+    <string name="Detail">Description</string>
+    <string name="Affluence">Temps d\'attente 15 min</string>
+    <string name="Localisation">Autour de moi</string>
+
+
+    <string name="bottom_home_item"> Accueil</string>
+    <string name="bottom_map_item">Map</string>
+    <string name="bottom_filter">Filtrer</string>
+    <string name="title_activity_maps">MapsActivity</string>
+
+
+</resources>

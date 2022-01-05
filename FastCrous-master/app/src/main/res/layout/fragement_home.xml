@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+
+   <TextView
+       android:id="@+id/txt_favoris"
+       android:layout_width="wrap_content"
+       android:layout_height="wrap_content"
+       android:text="@string/Favoris"
+       android:drawableEnd="@drawable/ic_favoris"
+       android:textSize="20dp"
+       android:textStyle="bold|italic"
+       android:drawablePadding="20dp"
+       android:layout_marginTop="25dp"
+       android:layout_marginLeft="20dp"/>
+
+   <androidx.recyclerview.widget.RecyclerView
+       android:id="@+id/fragementHome"
+       android:layout_width="match_parent"
+       android:layout_height="94dp"
+       android:layout_marginTop="20dp"
+       android:orientation="horizontal"
+       app:layoutManager="androidx.recyclerview.widget.LinearLayoutManager" />
+
+   <TextView
+       android:id="@+id/autourDeMoi"
+       android:layout_width="wrap_content"
+       android:layout_height="wrap_content"
+       android:text="Crous Nanterre"
+       android:drawableEnd="@drawable/ic_location"
+       android:textSize="20dp"
+       android:textStyle="bold|italic"
+       android:drawablePadding="20dp"
+       android:layout_marginTop="20dp"
+       android:layout_marginLeft="20dp"
+       />
+
+   <androidx.recyclerview.widget.RecyclerView
+       android:id="@+id/verttical_recycleView"
+       android:layout_width="match_parent"
+       android:layout_height="378dp"
+       android:layout_marginLeft="20dp"
+       android:layout_marginTop="20dp"
+       android:orientation="vertical"
+       app:layoutManager="androidx.recyclerview.widget.LinearLayoutManager" />
+
+
+
+</LinearLayout>
