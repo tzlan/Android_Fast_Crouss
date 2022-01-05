@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "124366843356",
+    "firebase_url": "https://fastcrous-367b0-default-rtdb.firebaseio.com",
+    "project_id": "fastcrous-367b0",
+    "storage_bucket": "fastcrous-367b0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:124366843356:android:a279e2590ddf2287967319",
+        "android_client_info": {
+          "package_name": "fr.Crous.fastcrous"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "124366843356-3aq08jctje5us42p516c9d4v83qukdmr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9WcG5vYfMpajNMN4wj63ijqyhpJy8r_w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "124366843356-3aq08jctje5us42p516c9d4v83qukdmr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
